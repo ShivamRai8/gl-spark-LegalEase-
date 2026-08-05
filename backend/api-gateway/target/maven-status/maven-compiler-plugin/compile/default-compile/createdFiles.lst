@@ -1,0 +1,2 @@
+com\legalease\apigateway\config\CorsConfig.class
+com\legalease\apigateway\config\JwtAuthenticationGatewayFilter.class

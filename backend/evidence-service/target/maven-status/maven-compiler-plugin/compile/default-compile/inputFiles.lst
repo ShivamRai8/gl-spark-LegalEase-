@@ -1,0 +1,16 @@
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\client\CaseClient.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\client\CaseStatusResponse.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\client\CaseVerifier.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\config\WebConfig.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\controller\EvidenceController.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\dto\EvidenceDto.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\dto\UploadEvidenceDto.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\dto\VerifyEvidenceDto.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\entity\Evidence.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\entity\VerificationStatus.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\EvidenceServiceApplication.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\exception\CaseClosedException.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\exception\GlobalExceptionHandler.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\repository\EvidenceRepository.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\service\EvidenceService.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\evidence-service\src\main\java\com\legalease\evidenceservice\service\impl\EvidenceServiceImpl.java

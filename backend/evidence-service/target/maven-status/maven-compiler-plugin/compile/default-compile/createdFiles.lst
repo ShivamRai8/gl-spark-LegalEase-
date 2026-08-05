@@ -1,0 +1,5 @@
+com\legalease\evidenceservice\exception\GlobalExceptionHandler.class
+com\legalease\evidenceservice\client\CaseVerifier.class
+com\legalease\evidenceservice\config\WebConfig.class
+com\legalease\evidenceservice\exception\CaseClosedException.class
+com\legalease\evidenceservice\client\CaseStatusResponse.class
