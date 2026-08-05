@@ -1,0 +1,5 @@
+com\legalease\userservice\dto\UpdateUserStatusDto.class
+com\legalease\userservice\dto\ChangePasswordDto.class
+com\legalease\userservice\exception\GlobalExceptionHandler.class
+com\legalease\userservice\dto\UpdateProfileDto.class
+com\legalease\userservice\config\DataInitializer.class

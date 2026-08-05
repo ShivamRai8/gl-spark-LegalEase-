@@ -1,0 +1,13 @@
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\CaseServiceApplication.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\client\UserClient.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\config\FeignClientInterceptor.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\controller\CaseController.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\dto\AssignInvestigatorDto.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\dto\CaseDto.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\dto\CreateCaseDto.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\dto\UpdateCaseStatusDto.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\entity\Case.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\entity\CaseStatus.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\repository\CaseRepository.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\service\CaseService.java
+C:\Users\shivam.rai2\Desktop\New folder (2)\FinalProject(LegalEase)\backend\case-service\src\main\java\com\legalease\caseservice\service\impl\CaseServiceImpl.java
