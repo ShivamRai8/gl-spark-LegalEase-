@@ -33,6 +33,17 @@ public class NotificationListener {
         sendSafely(defaultRecipient, "Evidence Verified", message);
     }
 
+
+    @KafkaListener(topics = "CASE_CREATED", groupId = "notification-group")
+    public void listenCaseCreated(String message) {
+        sendSafely(defaultRecipient, "Case Created", message);
+    }
+
+    @KafkaListener(topics = "CASE_STATUS_UPDATED", groupId = "notification-group")
+    public void listenCaseStatusUpdated(String message) {
+        sendSafely(defaultRecipient, "Case Status Updated", message);
+    }
+
     private void sendSafely(String to, String subject, String body) {
         try {
             emailService.sendEmail(to, subject, body);
